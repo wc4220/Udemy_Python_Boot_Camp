@@ -7,10 +7,6 @@
 
 import random
 
-random.randint(1, 10)
-
-random.random()
-
 Rock = '''
     _______
 ---'   ____)
